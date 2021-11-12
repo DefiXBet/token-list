@@ -21674,6 +21674,19 @@
     },
     {
       "chainId": 101,
+      <<<<<<< patch-1
+      "address": "8mgeCL7k2cB2KTN8NhD5biqvcbkfrmBogDpYoHmn5cKQ",
+      "symbol": "DXB",
+      "name": "DefiXBet Token",
+      "decimals": 9,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/5GG1LbgY4EEvPR51YQPNr65QKcZemrHWPooTqC5gRPBA/logo.png",
+=======
+      "address": "5hownqSTYjtGJi1u117siKxLXBEAMhkRZaVBM21rwh86",
+      "symbol": "DOG",
+      "name": "DogSol",
+      "decimals": 4,
+      "logoURI": "https://lizardtoken.xyz/gallery/dog-ts1635027588.png",
+>>>>>>> main
       "address": "5hownqSTYjtGJi1u117siKxLXBEAMhkRZaVBM21rwh86",
       "symbol": "DOG",
       "name": "DogSol",
